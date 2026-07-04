@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pkl.tmp
+
+# Data (not included in repo — see README)
+*.csv
+delivery_data.csv
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/

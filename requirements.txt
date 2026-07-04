@@ -1,0 +1,15 @@
+# Core pipeline
+pandas==3.0.2
+numpy==2.4.4
+lightgbm==4.6.0
+networkx==3.6.1
+scikit-learn==1.8.0
+termcolor==2.4.0
+
+# NOTE ON REPRODUCIBILITY:
+# eta_artifacts.pkl was pickled with the versions above. LightGBM/sklearn
+# pickles are sensitive to major-version mismatches — if you retrain from
+# scratch you do not need exact matches, but if you want to *load*
+# models/eta_artifacts.pkl directly, install these exact versions first.
+# If your original training environment used different versions, replace
+# the pins above with the output of `pip freeze` from that environment.

@@ -1,0 +1,2822 @@
+{
+  "nodes": [
+    {
+      "id": "IND000000ACB",
+      "name": "Gurgaon Bilaspur HB (Haryana)",
+      "state": "Haryana",
+      "btw": 23.174,
+      "pr": 9.8338,
+      "delay": 1.824,
+      "sla": 89.4,
+      "trips": 777,
+      "degree": 89,
+      "is_top5": true,
+      "rank": 1
+    },
+    {
+      "id": "IND562132AAA",
+      "name": "Bangalore Nelmngla H (Karnataka)",
+      "state": "Karnataka",
+      "btw": 14.18,
+      "pr": 9.6554,
+      "delay": 1.741,
+      "sla": 82.2,
+      "trips": 574,
+      "degree": 71,
+      "is_top5": true,
+      "rank": 2
+    },
+    {
+      "id": "IND160002AAC",
+      "name": "Chandigarh Mehmdpur H (Punjab)",
+      "state": "Punjab",
+      "btw": 5.026,
+      "pr": 8.9597,
+      "delay": 1.886,
+      "sla": 82.8,
+      "trips": 296,
+      "degree": 58,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND501359AAE",
+      "name": "Hyderabad Shamshbd H (Telangana)",
+      "state": "Telangana",
+      "btw": 8.72,
+      "pr": 9.3192,
+      "delay": 1.894,
+      "sla": 85.5,
+      "trips": 251,
+      "degree": 57,
+      "is_top5": true,
+      "rank": 4
+    },
+    {
+      "id": "IND421302AAG",
+      "name": "Bhiwandi Mankoli HB (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 3.811,
+      "pr": 6.3547,
+      "delay": 1.929,
+      "sla": 94.6,
+      "trips": 554,
+      "degree": 54,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND712311AAA",
+      "name": "Kolkata Dankuni HB (West Bengal)",
+      "state": "West Bengal",
+      "btw": 8.352,
+      "pr": 6.3245,
+      "delay": 2.106,
+      "sla": 97.0,
+      "trips": 212,
+      "degree": 42,
+      "is_top5": true,
+      "rank": 3
+    },
+    {
+      "id": "IND411033AAA",
+      "name": "Pune Tathawde H (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 4.384,
+      "pr": 6.5963,
+      "delay": 1.79,
+      "sla": 83.5,
+      "trips": 319,
+      "degree": 41,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND110037AAM",
+      "name": "Delhi Airport H (Delhi)",
+      "state": "Delhi",
+      "btw": 3.564,
+      "pr": 5.4747,
+      "delay": 1.987,
+      "sla": 93.4,
+      "trips": 185,
+      "degree": 41,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND131028AAB",
+      "name": "Sonipat Kundli H (Haryana)",
+      "state": "Haryana",
+      "btw": 4.403,
+      "pr": 5.8342,
+      "delay": 1.645,
+      "sla": 67.4,
+      "trips": 200,
+      "degree": 37,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND600056AAB",
+      "name": "MAA Poonamallee HB (Tamil Nadu)",
+      "state": "Tamil Nadu",
+      "btw": 3.906,
+      "pr": 5.0065,
+      "delay": 1.66,
+      "sla": 71.1,
+      "trips": 222,
+      "degree": 36,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND781018AAB",
+      "name": "Guwahati Hub (Assam)",
+      "state": "Assam",
+      "btw": 4.373,
+      "pr": 4.3,
+      "delay": 2.425,
+      "sla": 97.0,
+      "trips": 72,
+      "degree": 29,
+      "is_top5": true,
+      "rank": 5
+    },
+    {
+      "id": "IND209304AAA",
+      "name": "Kanpur Central H 6 (Uttar Pradesh)",
+      "state": "Uttar Pradesh",
+      "btw": 3.286,
+      "pr": 5.3193,
+      "delay": 1.884,
+      "sla": 83.3,
+      "trips": 138,
+      "degree": 28,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND382430AAB",
+      "name": "Ahmedabad East H 1 (Gujarat)",
+      "state": "Gujarat",
+      "btw": 3.154,
+      "pr": 3.8397,
+      "delay": 1.774,
+      "sla": 82.3,
+      "trips": 203,
+      "degree": 28,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND842001AAA",
+      "name": "Muzaffrpur Bbganj I (Bihar)",
+      "state": "Bihar",
+      "btw": 2.485,
+      "pr": 5.3078,
+      "delay": 2.068,
+      "sla": 88.8,
+      "trips": 122,
+      "degree": 26,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND560099AAB",
+      "name": "Bengaluru Bomsndra HB (Karnataka)",
+      "state": "Karnataka",
+      "btw": 0.396,
+      "pr": 2.2694,
+      "delay": 1.562,
+      "sla": 54.2,
+      "trips": 343,
+      "degree": 26,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND462022AAA",
+      "name": "Bhopal Trnsport H (Madhya Pradesh)",
+      "state": "Madhya Pradesh",
+      "btw": 2.614,
+      "pr": 4.9767,
+      "delay": 1.948,
+      "sla": 89.4,
+      "trips": 74,
+      "degree": 22,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND000000ACA",
+      "name": "Ludhiana MilrGanj HB (Punjab)",
+      "state": "Punjab",
+      "btw": 0.691,
+      "pr": 3.1027,
+      "delay": 1.792,
+      "sla": 84.5,
+      "trips": 106,
+      "degree": 21,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND400072AAB",
+      "name": "Mumbai Hub (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.537,
+      "pr": 2.1445,
+      "delay": 2.416,
+      "sla": 96.9,
+      "trips": 189,
+      "degree": 20,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND530012AAA",
+      "name": "Visakhapatnam Gajuwaka IP (Andhra Pradesh)",
+      "state": "Andhra Pradesh",
+      "btw": 1.818,
+      "pr": 2.9046,
+      "delay": 1.896,
+      "sla": 93.1,
+      "trips": 52,
+      "degree": 19,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND751002AAB",
+      "name": "Bhubaneshwar Hub (Orissa)",
+      "state": "Orissa",
+      "btw": 1.808,
+      "pr": 2.0446,
+      "delay": 2.109,
+      "sla": 92.8,
+      "trips": 65,
+      "degree": 18,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND683511AAA",
+      "name": "Aluva Peedika H (Kerala)",
+      "state": "Kerala",
+      "btw": 1.969,
+      "pr": 2.5001,
+      "delay": 1.5,
+      "sla": 49.0,
+      "trips": 63,
+      "degree": 18,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND302014AAB",
+      "name": "Jaipur Central I 7 (Rajasthan)",
+      "state": "Rajasthan",
+      "btw": 0.007,
+      "pr": 2.2738,
+      "delay": 1.941,
+      "sla": 78.4,
+      "trips": 106,
+      "degree": 18,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND302014AAA",
+      "name": "Jaipur Hub (Rajasthan)",
+      "state": "Rajasthan",
+      "btw": 3.758,
+      "pr": 3.1241,
+      "delay": 1.785,
+      "sla": 75.1,
+      "trips": 61,
+      "degree": 17,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND518002AAA",
+      "name": "Kurnool AbbasNgr I (Andhra Pradesh)",
+      "state": "Andhra Pradesh",
+      "btw": 1.011,
+      "pr": 2.7514,
+      "delay": 1.536,
+      "sla": 60.0,
+      "trips": 56,
+      "degree": 16,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND533106AAA",
+      "name": "Rajamundry AtoNgrRd I (Andhra Pradesh)",
+      "state": "Andhra Pradesh",
+      "btw": 0.568,
+      "pr": 2.0586,
+      "delay": 1.883,
+      "sla": 91.8,
+      "trips": 31,
+      "degree": 16,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND560300AAA",
+      "name": "Bengaluru KGAirprt HB (Karnataka)",
+      "state": "Karnataka",
+      "btw": 0.567,
+      "pr": 1.0277,
+      "delay": 1.673,
+      "sla": 60.5,
+      "trips": 227,
+      "degree": 16,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND713205AAB",
+      "name": "Durgapur Central I 1 (West Bengal)",
+      "state": "West Bengal",
+      "btw": 1.412,
+      "pr": 2.4862,
+      "delay": 2.529,
+      "sla": 93.9,
+      "trips": 35,
+      "degree": 16,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND244901AAB",
+      "name": "Rampur RoshnBgh I (Uttar Pradesh)",
+      "state": "Uttar Pradesh",
+      "btw": 1.291,
+      "pr": 2.777,
+      "delay": 1.492,
+      "sla": 47.9,
+      "trips": 45,
+      "degree": 15,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND395023AAA",
+      "name": "Surat HUB (Gujarat)",
+      "state": "Gujarat",
+      "btw": 0.714,
+      "pr": 1.8021,
+      "delay": 1.796,
+      "sla": 89.9,
+      "trips": 71,
+      "degree": 15,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND580028AAA",
+      "name": "Hubli Adargchi IP (Karnataka)",
+      "state": "Karnataka",
+      "btw": 1.329,
+      "pr": 4.6939,
+      "delay": 1.811,
+      "sla": 85.3,
+      "trips": 58,
+      "degree": 15,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND505001AAB",
+      "name": "Karimnagar KamnHbRD I (Telangana)",
+      "state": "Telangana",
+      "btw": 0.851,
+      "pr": 1.9315,
+      "delay": 1.634,
+      "sla": 58.3,
+      "trips": 15,
+      "degree": 15,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND121004AAB",
+      "name": "FBD Balabhgarh DPC (Haryana)",
+      "state": "Haryana",
+      "btw": 0.406,
+      "pr": 2.2087,
+      "delay": 1.955,
+      "sla": 94.6,
+      "trips": 117,
+      "degree": 14,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND474003AAA",
+      "name": "Gwalior HrihrNgr I (Madhya Pradesh)",
+      "state": "Madhya Pradesh",
+      "btw": 0.766,
+      "pr": 1.7439,
+      "delay": 1.526,
+      "sla": 53.8,
+      "trips": 24,
+      "degree": 14,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND521225AAB",
+      "name": "Vijayawada Rynapadu H (Andhra Pradesh)",
+      "state": "Andhra Pradesh",
+      "btw": 1.131,
+      "pr": 3.7966,
+      "delay": 1.596,
+      "sla": 63.8,
+      "trips": 50,
+      "degree": 14,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND424006AAA",
+      "name": "Dhule MIDCAvdn I (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.329,
+      "pr": 1.243,
+      "delay": 2.11,
+      "sla": 87.7,
+      "trips": 24,
+      "degree": 14,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND854326AAB",
+      "name": "Purnia Central H 2 (Bihar)",
+      "state": "Bihar",
+      "btw": 1.865,
+      "pr": 1.3152,
+      "delay": 2.052,
+      "sla": 92.2,
+      "trips": 51,
+      "degree": 14,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND000000AFT",
+      "name": "Mumbai Sanpada I (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.407,
+      "pr": 1.6468,
+      "delay": 2.25,
+      "sla": 98.0,
+      "trips": 50,
+      "degree": 13,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND575004AAB",
+      "name": "Mangalore Kuntikna H (Karnataka)",
+      "state": "Karnataka",
+      "btw": 1.461,
+      "pr": 2.0246,
+      "delay": 1.879,
+      "sla": 80.2,
+      "trips": 25,
+      "degree": 13,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND842003AAB",
+      "name": "Jabalpur Adhartal IP (Madhya Pradesh)",
+      "state": "Madhya Pradesh",
+      "btw": 1.172,
+      "pr": 3.586,
+      "delay": 2.06,
+      "sla": 87.0,
+      "trips": 25,
+      "degree": 13,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND641062AAD",
+      "name": "Coimbatore Karayam H (Tamil Nadu)",
+      "state": "Tamil Nadu",
+      "btw": 0.01,
+      "pr": 3.2828,
+      "delay": 1.727,
+      "sla": 63.9,
+      "trips": 46,
+      "degree": 13,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND125001AAA",
+      "name": "Hisar ModelTwn P (Haryana)",
+      "state": "Haryana",
+      "btw": 0.502,
+      "pr": 1.6465,
+      "delay": 1.885,
+      "sla": 89.9,
+      "trips": 30,
+      "degree": 12,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND742101AAC",
+      "name": "Baharampur Chuanpur I (West Bengal)",
+      "state": "West Bengal",
+      "btw": 0.731,
+      "pr": 1.9355,
+      "delay": 2.697,
+      "sla": 96.5,
+      "trips": 26,
+      "degree": 12,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND826004AAA",
+      "name": "Dhanbad Kalynpur I (Jharkhand)",
+      "state": "Jharkhand",
+      "btw": 0.954,
+      "pr": 2.8926,
+      "delay": 1.797,
+      "sla": 85.3,
+      "trips": 15,
+      "degree": 12,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND201007AAA",
+      "name": "GZB Mohan Nagar DPC (Uttar Pradesh)",
+      "state": "Uttar Pradesh",
+      "btw": 0.366,
+      "pr": 2.2929,
+      "delay": 2.23,
+      "sla": 98.1,
+      "trips": 16,
+      "degree": 11,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND263153AAB",
+      "name": "Rudrapur UdhamNgr H (Uttarakhand)",
+      "state": "Uttarakhand",
+      "btw": 0.728,
+      "pr": 2.0462,
+      "delay": 1.783,
+      "sla": 70.9,
+      "trips": 39,
+      "degree": 11,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND786001AAB",
+      "name": "Dibrugarh Bokule H (Assam)",
+      "state": "Assam",
+      "btw": 1.209,
+      "pr": 2.192,
+      "delay": 1.936,
+      "sla": 68.9,
+      "trips": 29,
+      "degree": 11,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND144001AAB",
+      "name": "Jalandhar DPC (Punjab)",
+      "state": "Punjab",
+      "btw": 0.365,
+      "pr": 2.5754,
+      "delay": 1.803,
+      "sla": 67.2,
+      "trips": 43,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND201301AAF",
+      "name": "Noida Sec 02 DPC (Uttar Pradesh)",
+      "state": "Uttar Pradesh",
+      "btw": 0.083,
+      "pr": 2.4496,
+      "delay": 1.795,
+      "sla": 71.4,
+      "trips": 25,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND834002AAB",
+      "name": "Ranchi Hub (Jharkhand)",
+      "state": "Jharkhand",
+      "btw": 0.366,
+      "pr": 1.5942,
+      "delay": 2.088,
+      "sla": 96.7,
+      "trips": 52,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND273014AAB",
+      "name": "Gorakhpur Matriprm IP (Uttar Pradesh)",
+      "state": "Uttar Pradesh",
+      "btw": 0.613,
+      "pr": 2.7459,
+      "delay": 1.967,
+      "sla": 87.1,
+      "trips": 31,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND384205AAA",
+      "name": "Mehsana Panchot IP (Gujarat)",
+      "state": "Gujarat",
+      "btw": 0.85,
+      "pr": 2.3718,
+      "delay": 1.375,
+      "sla": 29.2,
+      "trips": 33,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND395023AAD",
+      "name": "Surat Central I 4 (Gujarat)",
+      "state": "Gujarat",
+      "btw": 0.002,
+      "pr": 2.7036,
+      "delay": 2.0,
+      "sla": 100.0,
+      "trips": 41,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND403726AAA",
+      "name": "Goa Hub (Goa)",
+      "state": "Goa",
+      "btw": 0.487,
+      "pr": 1.7793,
+      "delay": 1.59,
+      "sla": 64.7,
+      "trips": 42,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND416012AAA",
+      "name": "Kolhapur Shivaji I (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 1.092,
+      "pr": 2.4513,
+      "delay": 1.856,
+      "sla": 97.3,
+      "trips": 38,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND431136AAC",
+      "name": "Aurangabad Central H 1 (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.568,
+      "pr": 1.6762,
+      "delay": 2.1,
+      "sla": 96.7,
+      "trips": 44,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND585104AAA",
+      "name": "Gulbarga Nehrugnj I (Karnataka)",
+      "state": "Karnataka",
+      "btw": 0.649,
+      "pr": 1.7815,
+      "delay": 1.684,
+      "sla": 67.1,
+      "trips": 42,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND507002AAA",
+      "name": "Khammam NSTRoad I (Telangana)",
+      "state": "Telangana",
+      "btw": 0.487,
+      "pr": 1.3102,
+      "delay": 1.824,
+      "sla": 91.6,
+      "trips": 32,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND600044AAD",
+      "name": "Chennai Chrompet DPC (Tamil Nadu)",
+      "state": "Tamil Nadu",
+      "btw": 0.325,
+      "pr": 1.7019,
+      "delay": 2.346,
+      "sla": 89.7,
+      "trips": 39,
+      "degree": 10,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND110085AAB",
+      "name": "Delhi Rohini DPC (Delhi)",
+      "state": "Delhi",
+      "btw": 0.244,
+      "pr": 1.0583,
+      "delay": 2.698,
+      "sla": 83.6,
+      "trips": 18,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND125005AAA",
+      "name": "Hisar IndstlAr I (Haryana)",
+      "state": "Haryana",
+      "btw": 0.787,
+      "pr": 1.1523,
+      "delay": 1.736,
+      "sla": 90.0,
+      "trips": 14,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND390022AAA",
+      "name": "Vadodara Karelibaug DPC (Gujarat)",
+      "state": "Gujarat",
+      "btw": 0.566,
+      "pr": 1.7692,
+      "delay": 1.676,
+      "sla": 76.8,
+      "trips": 36,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND821115AAB",
+      "name": "Sasaram Central I 2 (Bihar)",
+      "state": "Bihar",
+      "btw": 0.648,
+      "pr": 1.6697,
+      "delay": 1.882,
+      "sla": 91.1,
+      "trips": 23,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND151001AAA",
+      "name": "Bhatinda DPC (Punjab)",
+      "state": "Punjab",
+      "btw": 0.527,
+      "pr": 1.6094,
+      "delay": 1.558,
+      "sla": 60.1,
+      "trips": 35,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND313001AAB",
+      "name": "Udaipur Mangri I (Rajasthan)",
+      "state": "Rajasthan",
+      "btw": 0.839,
+      "pr": 2.2444,
+      "delay": 2.115,
+      "sla": 99.6,
+      "trips": 36,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND332001AAB",
+      "name": "Sikar FatehpRd I (Rajasthan)",
+      "state": "Rajasthan",
+      "btw": 0.651,
+      "pr": 0.8111,
+      "delay": 1.591,
+      "sla": 71.8,
+      "trips": 25,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND421302AAR",
+      "name": "Mumbai East I 21 (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.165,
+      "pr": 1.6469,
+      "delay": 3.778,
+      "sla": 100.0,
+      "trips": 36,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND403726AAB",
+      "name": "Goa ZuariNgr IP (Goa)",
+      "state": "Goa",
+      "btw": 0.001,
+      "pr": 1.3387,
+      "delay": 1.419,
+      "sla": 38.6,
+      "trips": 19,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND413002AAA",
+      "name": "Solapur Central I 2 (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.315,
+      "pr": 1.31,
+      "delay": 1.841,
+      "sla": 75.8,
+      "trips": 38,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND500039AAC",
+      "name": "Hyderabad Uppal I (Telangana)",
+      "state": "Telangana",
+      "btw": 0.486,
+      "pr": 1.6636,
+      "delay": 2.929,
+      "sla": 95.9,
+      "trips": 24,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND532001AAB",
+      "name": "Srikakulam Kuslpram I (Andhra Pradesh)",
+      "state": "Andhra Pradesh",
+      "btw": 0.729,
+      "pr": 1.7788,
+      "delay": 2.236,
+      "sla": 99.5,
+      "trips": 43,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND573201AAB",
+      "name": "Hassan Pandrnga I (Karnataka)",
+      "state": "Karnataka",
+      "btw": 1.627,
+      "pr": 1.7145,
+      "delay": 2.302,
+      "sla": 89.0,
+      "trips": 33,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND742102AAB",
+      "name": "Berhampore Central I 2 (West Bengal)",
+      "state": "West Bengal",
+      "btw": 0.76,
+      "pr": 1.5795,
+      "delay": 2.441,
+      "sla": 94.0,
+      "trips": 21,
+      "degree": 9,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND282002AAD",
+      "name": "nan",
+      "state": "nan",
+      "btw": 0.392,
+      "pr": 1.0121,
+      "delay": 1.408,
+      "sla": 47.1,
+      "trips": 7,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND202001AAB",
+      "name": "Aligarh KhirByps I (Uttar Pradesh)",
+      "state": "Uttar Pradesh",
+      "btw": 0.283,
+      "pr": 1.3906,
+      "delay": 1.984,
+      "sla": 87.3,
+      "trips": 14,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND110044AAB",
+      "name": "Del Okhla PC (Delhi)",
+      "state": "Delhi",
+      "btw": 0.246,
+      "pr": 0.4013,
+      "delay": 1.478,
+      "sla": 47.2,
+      "trips": 130,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND211002AAB",
+      "name": "Allahabad Central H 1 (Uttar Pradesh)",
+      "state": "Uttar Pradesh",
+      "btw": 0.809,
+      "pr": 1.7256,
+      "delay": 2.086,
+      "sla": 87.9,
+      "trips": 37,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND305001AAC",
+      "name": "Ajmer FoySGRRD I (Rajasthan)",
+      "state": "Rajasthan",
+      "btw": 1.01,
+      "pr": 2.7999,
+      "delay": 1.962,
+      "sla": 95.6,
+      "trips": 31,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND401104AAA",
+      "name": "Mumbai MiraRd IP (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.122,
+      "pr": 0.9268,
+      "delay": 2.498,
+      "sla": 100.0,
+      "trips": 59,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND431603AAA",
+      "name": "Nanded Aswningr I (Maharashtra)",
+      "state": "Maharashtra",
+      "btw": 0.488,
+      "pr": 1.2225,
+      "delay": 2.132,
+      "sla": 96.7,
+      "trips": 20,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    },
+    {
+      "id": "IND515004AAA",
+      "name": "Anantapur KamaStrt I (Andhra Pradesh)",
+      "state": "Andhra Pradesh",
+      "btw": 0.97,
+      "pr": 1.8133,
+      "delay": 1.708,
+      "sla": 92.5,
+      "trips": 41,
+      "degree": 8,
+      "is_top5": false,
+      "rank": null
+    }
+  ],
+  "links": [
+    {
+      "source": "IND000000ACA",
+      "target": "IND144001AAB",
+      "delay": 1.58,
+      "trips": 14,
+      "pct_sev": 9.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACA",
+      "target": "IND160002AAC",
+      "delay": 1.938,
+      "trips": 60,
+      "pct_sev": 42.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND110085AAB",
+      "delay": 1.597,
+      "trips": 18,
+      "pct_sev": 14.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND121004AAB",
+      "delay": 1.594,
+      "trips": 23,
+      "pct_sev": 16.1,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND125001AAA",
+      "delay": 2.024,
+      "trips": 14,
+      "pct_sev": 50.0,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND125005AAA",
+      "delay": 1.763,
+      "trips": 4,
+      "pct_sev": 7.1,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND131028AAB",
+      "delay": 1.779,
+      "trips": 73,
+      "pct_sev": 38.0,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND160002AAC",
+      "delay": 1.838,
+      "trips": 41,
+      "pct_sev": 36.9,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND201007AAA",
+      "delay": 1.562,
+      "trips": 9,
+      "pct_sev": 9.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND201301AAF",
+      "delay": 1.401,
+      "trips": 9,
+      "pct_sev": 6.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND209304AAA",
+      "delay": 2.284,
+      "trips": 10,
+      "pct_sev": 81.0,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND282002AAD",
+      "delay": 2.087,
+      "trips": 3,
+      "pct_sev": 62.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND302014AAA",
+      "delay": 2.048,
+      "trips": 24,
+      "pct_sev": 55.1,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND382430AAB",
+      "delay": 1.883,
+      "trips": 13,
+      "pct_sev": 26.0,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND390022AAA",
+      "delay": 1.805,
+      "trips": 8,
+      "pct_sev": 4.3,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND411033AAA",
+      "delay": 1.743,
+      "trips": 15,
+      "pct_sev": 11.8,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND421302AAG",
+      "delay": 1.891,
+      "trips": 26,
+      "pct_sev": 18.1,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND462022AAA",
+      "delay": 1.761,
+      "trips": 12,
+      "pct_sev": 7.3,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND474003AAA",
+      "delay": 2.197,
+      "trips": 2,
+      "pct_sev": 84.6,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND501359AAE",
+      "delay": 1.848,
+      "trips": 21,
+      "pct_sev": 31.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND521225AAB",
+      "delay": 1.932,
+      "trips": 5,
+      "pct_sev": 19.8,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND562132AAA",
+      "delay": 1.679,
+      "trips": 44,
+      "pct_sev": 3.8,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND600056AAB",
+      "delay": 1.786,
+      "trips": 10,
+      "pct_sev": 8.2,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND712311AAA",
+      "delay": 2.07,
+      "trips": 34,
+      "pct_sev": 56.9,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND751002AAB",
+      "delay": 1.912,
+      "trips": 13,
+      "pct_sev": 33.6,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND821115AAB",
+      "delay": 2.132,
+      "trips": 14,
+      "pct_sev": 74.5,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND834002AAB",
+      "delay": 1.922,
+      "trips": 9,
+      "pct_sev": 32.4,
+      "chronic": true
+    },
+    {
+      "source": "IND000000ACB",
+      "target": "IND842001AAA",
+      "delay": 1.903,
+      "trips": 12,
+      "pct_sev": 21.1,
+      "chronic": true
+    },
+    {
+      "source": "IND000000AFT",
+      "target": "IND400072AAB",
+      "delay": 2.0,
+      "trips": 6,
+      "pct_sev": 16.7,
+      "chronic": true
+    },
+    {
+      "source": "IND000000AFT",
+      "target": "IND421302AAG",
+      "delay": 2.561,
+      "trips": 9,
+      "pct_sev": 77.8,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND000000ACB",
+      "delay": 1.587,
+      "trips": 12,
+      "pct_sev": 8.3,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND110085AAB",
+      "delay": 1.866,
+      "trips": 14,
+      "pct_sev": 33.3,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND121004AAB",
+      "delay": 2.154,
+      "trips": 35,
+      "pct_sev": 52.4,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND125001AAA",
+      "delay": 1.734,
+      "trips": 1,
+      "pct_sev": 14.3,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND131028AAB",
+      "delay": 2.051,
+      "trips": 1,
+      "pct_sev": 60.0,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND201007AAA",
+      "delay": 1.965,
+      "trips": 6,
+      "pct_sev": 50.0,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND201301AAF",
+      "delay": 1.963,
+      "trips": 5,
+      "pct_sev": 40.0,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND202001AAB",
+      "delay": 1.689,
+      "trips": 20,
+      "pct_sev": 18.1,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND209304AAA",
+      "delay": 1.926,
+      "trips": 18,
+      "pct_sev": 32.5,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND282002AAD",
+      "delay": 1.936,
+      "trips": 1,
+      "pct_sev": 12.5,
+      "chronic": true
+    },
+    {
+      "source": "IND110037AAM",
+      "target": "IND421302AAG",
+      "delay": 2.027,
+      "trips": 13,
+      "pct_sev": 59.8,
+      "chronic": true
+    },
+    {
+      "source": "IND110044AAB",
+      "target": "IND000000ACB",
+      "delay": 1.524,
+      "trips": 59,
+      "pct_sev": 11.7,
+      "chronic": true
+    },
+    {
+      "source": "IND110044AAB",
+      "target": "IND110037AAM",
+      "delay": 2.048,
+      "trips": 3,
+      "pct_sev": 57.1,
+      "chronic": true
+    },
+    {
+      "source": "IND110044AAB",
+      "target": "IND131028AAB",
+      "delay": 1.263,
+      "trips": 28,
+      "pct_sev": 15.0,
+      "chronic": true
+    },
+    {
+      "source": "IND110044AAB",
+      "target": "IND201007AAA",
+      "delay": 2.773,
+      "trips": 11,
+      "pct_sev": 100.0,
+      "chronic": true
+    },
+    {
+      "source": "IND110044AAB",
+      "target": "IND201301AAF",
+      "delay": 1.556,
+      "trips": 7,
+      "pct_sev": 28.6,
+      "chronic": true
+    },
+    {
+      "source": "IND110085AAB",
+      "target": "IND000000ACB",
+      "delay": 2.85,
+      "trips": 7,
+      "pct_sev": 65.3,
+      "chronic": true
+    },
+    {
+      "source": "IND121004AAB",
+      "target": "IND000000ACB",
+      "delay": 1.844,
+      "trips": 21,
+      "pct_sev": 18.3,
+      "chronic": true
+    },
+    {
+      "source": "IND121004AAB",
+      "target": "IND110037AAM",
+      "delay": 2.391,
+      "trips": 26,
+      "pct_sev": 66.2,
+      "chronic": true
+    },
+    {
+      "source": "IND125001AAA",
+      "target": "IND000000ACB",
+      "delay": 1.897,
+      "trips": 6,
+      "pct_sev": 35.7,
+      "chronic": true
+    },
+    {
+      "source": "IND125001AAA",
+      "target": "IND110037AAM",
+      "delay": 2.129,
+      "trips": 6,
+      "pct_sev": 59.5,
+      "chronic": true
+    },
+    {
+      "source": "IND125005AAA",
+      "target": "IND000000ACB",
+      "delay": 1.776,
+      "trips": 5,
+      "pct_sev": 20.0,
+      "chronic": true
+    },
+    {
+      "source": "IND131028AAB",
+      "target": "IND000000ACB",
+      "delay": 1.535,
+      "trips": 74,
+      "pct_sev": 22.1,
+      "chronic": true
+    },
+    {
+      "source": "IND131028AAB",
+      "target": "IND110037AAM",
+      "delay": 2.662,
+      "trips": 6,
+      "pct_sev": 84.6,
+      "chronic": true
+    },
+    {
+      "source": "IND131028AAB",
+      "target": "IND160002AAC",
+      "delay": 1.653,
+      "trips": 26,
+      "pct_sev": 9.6,
+      "chronic": true
+    },
+    {
+      "source": "IND144001AAB",
+      "target": "IND000000ACA",
+      "delay": 2.13,
+      "trips": 16,
+      "pct_sev": 64.6,
+      "chronic": true
+    },
+    {
+      "source": "IND144001AAB",
+      "target": "IND160002AAC",
+      "delay": 3.375,
+      "trips": 1,
+      "pct_sev": 100.0,
+      "chronic": true
+    },
+    {
+      "source": "IND151001AAA",
+      "target": "IND160002AAC",
+      "delay": 1.65,
+      "trips": 15,
+      "pct_sev": 14.2,
+      "chronic": true
+    },
+    {
+      "source": "IND160002AAC",
+      "target": "IND000000ACA",
+      "delay": 2.0,
+      "trips": 25,
+      "pct_sev": 43.1,
+      "chronic": true
+    },
+    {
+      "source": "IND160002AAC",
+      "target": "IND000000ACB",
+      "delay": 2.049,
+      "trips": 54,
+      "pct_sev": 57.0,
+      "chronic": true
+    },
+    {
+      "source": "IND160002AAC",
+      "target": "IND110037AAM",
+      "delay": 1.673,
+      "trips": 7,
+      "pct_sev": 8.6,
+      "chronic": true
+    },
+    {
+      "source": "IND160002AAC",
+      "target": "IND131028AAB",
+      "delay": 1.788,
+      "trips": 12,
+      "pct_sev": 5.2,
+      "chronic": true
+    },
+    {
+      "source": "IND160002AAC",
+      "target": "IND144001AAB",
+      "delay": 2.071,
+      "trips": 9,
+      "pct_sev": 59.7,
+      "chronic": true
+    },
+    {
+      "source": "IND160002AAC",
+      "target": "IND151001AAA",
+      "delay": 1.593,
+      "trips": 13,
+      "pct_sev": 9.3,
+      "chronic": true
+    },
+    {
+      "source": "IND160002AAC",
+      "target": "IND562132AAA",
+      "delay": 1.674,
+      "trips": 1,
+      "pct_sev": 14.8,
+      "chronic": true
+    },
+    {
+      "source": "IND202001AAB",
+      "target": "IND110037AAM",
+      "delay": 2.114,
+      "trips": 1,
+      "pct_sev": 83.3,
+      "chronic": true
+    },
+    {
+      "source": "IND202001AAB",
+      "target": "IND282002AAD",
+      "delay": 1.755,
+      "trips": 3,
+      "pct_sev": 25.0,
+      "chronic": true
+    },
+    {
+      "source": "IND209304AAA",
+      "target": "IND000000ACB",
+      "delay": 1.886,
+      "trips": 24,
+      "pct_sev": 30.9,
+      "chronic": true
+    },
+    {
+      "source": "IND209304AAA",
+      "target": "IND110037AAM",
+      "delay": 2.506,
+      "trips": 4,
+      "pct_sev": 74.5,
+      "chronic": true
+    },
+    {
+      "source": "IND209304AAA",
+      "target": "IND211002AAB",
+      "delay": 1.764,
+      "trips": 14,
+      "pct_sev": 19.0,
+      "chronic": true
+    },
+    {
+      "source": "IND211002AAB",
+      "target": "IND209304AAA",
+      "delay": 1.699,
+      "trips": 10,
+      "pct_sev": 3.3,
+      "chronic": true
+    },
+    {
+      "source": "IND263153AAB",
+      "target": "IND131028AAB",
+      "delay": 1.902,
+      "trips": 10,
+      "pct_sev": 40.0,
+      "chronic": true
+    },
+    {
+      "source": "IND273014AAB",
+      "target": "IND209304AAA",
+      "delay": 2.444,
+      "trips": 3,
+      "pct_sev": 68.9,
+      "chronic": true
+    },
+    {
+      "source": "IND282002AAD",
+      "target": "IND474003AAA",
+      "delay": 1.405,
+      "trips": 3,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND302014AAA",
+      "target": "IND000000ACB",
+      "delay": 1.7,
+      "trips": 13,
+      "pct_sev": 16.5,
+      "chronic": true
+    },
+    {
+      "source": "IND302014AAA",
+      "target": "IND110037AAM",
+      "delay": 1.523,
+      "trips": 7,
+      "pct_sev": 11.7,
+      "chronic": true
+    },
+    {
+      "source": "IND302014AAA",
+      "target": "IND305001AAC",
+      "delay": 2.361,
+      "trips": 11,
+      "pct_sev": 95.5,
+      "chronic": true
+    },
+    {
+      "source": "IND302014AAA",
+      "target": "IND313001AAB",
+      "delay": 1.878,
+      "trips": 8,
+      "pct_sev": 25.2,
+      "chronic": true
+    },
+    {
+      "source": "IND313001AAB",
+      "target": "IND382430AAB",
+      "delay": 2.247,
+      "trips": 7,
+      "pct_sev": 93.1,
+      "chronic": true
+    },
+    {
+      "source": "IND382430AAB",
+      "target": "IND000000ACB",
+      "delay": 1.74,
+      "trips": 11,
+      "pct_sev": 3.3,
+      "chronic": true
+    },
+    {
+      "source": "IND382430AAB",
+      "target": "IND313001AAB",
+      "delay": 2.017,
+      "trips": 11,
+      "pct_sev": 52.1,
+      "chronic": true
+    },
+    {
+      "source": "IND382430AAB",
+      "target": "IND384205AAA",
+      "delay": 1.143,
+      "trips": 13,
+      "pct_sev": 3.9,
+      "chronic": false
+    },
+    {
+      "source": "IND382430AAB",
+      "target": "IND395023AAA",
+      "delay": 1.945,
+      "trips": 25,
+      "pct_sev": 38.0,
+      "chronic": true
+    },
+    {
+      "source": "IND390022AAA",
+      "target": "IND382430AAB",
+      "delay": 1.6,
+      "trips": 8,
+      "pct_sev": 5.1,
+      "chronic": true
+    },
+    {
+      "source": "IND390022AAA",
+      "target": "IND395023AAA",
+      "delay": 1.795,
+      "trips": 15,
+      "pct_sev": 23.8,
+      "chronic": true
+    },
+    {
+      "source": "IND395023AAA",
+      "target": "IND110037AAM",
+      "delay": 1.822,
+      "trips": 13,
+      "pct_sev": 3.0,
+      "chronic": true
+    },
+    {
+      "source": "IND395023AAA",
+      "target": "IND382430AAB",
+      "delay": 1.667,
+      "trips": 15,
+      "pct_sev": 10.6,
+      "chronic": true
+    },
+    {
+      "source": "IND395023AAA",
+      "target": "IND390022AAA",
+      "delay": 1.623,
+      "trips": 8,
+      "pct_sev": 3.8,
+      "chronic": true
+    },
+    {
+      "source": "IND395023AAA",
+      "target": "IND411033AAA",
+      "delay": 2.847,
+      "trips": 6,
+      "pct_sev": 76.2,
+      "chronic": true
+    },
+    {
+      "source": "IND395023AAA",
+      "target": "IND421302AAG",
+      "delay": 2.551,
+      "trips": 3,
+      "pct_sev": 96.7,
+      "chronic": true
+    },
+    {
+      "source": "IND395023AAA",
+      "target": "IND562132AAA",
+      "delay": 1.744,
+      "trips": 14,
+      "pct_sev": 5.7,
+      "chronic": true
+    },
+    {
+      "source": "IND400072AAB",
+      "target": "IND000000AFT",
+      "delay": 2.286,
+      "trips": 43,
+      "pct_sev": 77.9,
+      "chronic": true
+    },
+    {
+      "source": "IND400072AAB",
+      "target": "IND401104AAA",
+      "delay": 2.625,
+      "trips": 45,
+      "pct_sev": 92.5,
+      "chronic": true
+    },
+    {
+      "source": "IND400072AAB",
+      "target": "IND411033AAA",
+      "delay": 1.918,
+      "trips": 8,
+      "pct_sev": 40.0,
+      "chronic": true
+    },
+    {
+      "source": "IND400072AAB",
+      "target": "IND421302AAG",
+      "delay": 2.612,
+      "trips": 39,
+      "pct_sev": 72.3,
+      "chronic": true
+    },
+    {
+      "source": "IND400072AAB",
+      "target": "IND421302AAR",
+      "delay": 1.95,
+      "trips": 11,
+      "pct_sev": 45.5,
+      "chronic": true
+    },
+    {
+      "source": "IND401104AAA",
+      "target": "IND400072AAB",
+      "delay": 3.062,
+      "trips": 24,
+      "pct_sev": 95.6,
+      "chronic": true
+    },
+    {
+      "source": "IND401104AAA",
+      "target": "IND421302AAG",
+      "delay": 2.0,
+      "trips": 11,
+      "pct_sev": 47.6,
+      "chronic": true
+    },
+    {
+      "source": "IND403726AAA",
+      "target": "IND411033AAA",
+      "delay": 1.507,
+      "trips": 14,
+      "pct_sev": 10.5,
+      "chronic": true
+    },
+    {
+      "source": "IND403726AAA",
+      "target": "IND575004AAB",
+      "delay": 1.893,
+      "trips": 2,
+      "pct_sev": 25.0,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND000000ACB",
+      "delay": 1.624,
+      "trips": 13,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND400072AAB",
+      "delay": 1.912,
+      "trips": 5,
+      "pct_sev": 28.0,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND403726AAA",
+      "delay": 2.247,
+      "trips": 20,
+      "pct_sev": 89.6,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND413002AAA",
+      "delay": 1.426,
+      "trips": 17,
+      "pct_sev": 2.0,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND416012AAA",
+      "delay": 1.877,
+      "trips": 13,
+      "pct_sev": 24.6,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND421302AAG",
+      "delay": 2.179,
+      "trips": 92,
+      "pct_sev": 63.6,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND431136AAC",
+      "delay": 1.977,
+      "trips": 12,
+      "pct_sev": 47.5,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND431603AAA",
+      "delay": 2.137,
+      "trips": 15,
+      "pct_sev": 78.3,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND501359AAE",
+      "delay": 1.541,
+      "trips": 11,
+      "pct_sev": 2.3,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND521225AAB",
+      "delay": 1.84,
+      "trips": 10,
+      "pct_sev": 22.3,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND562132AAA",
+      "delay": 1.684,
+      "trips": 10,
+      "pct_sev": 10.1,
+      "chronic": true
+    },
+    {
+      "source": "IND411033AAA",
+      "target": "IND580028AAA",
+      "delay": 1.926,
+      "trips": 1,
+      "pct_sev": 42.1,
+      "chronic": true
+    },
+    {
+      "source": "IND413002AAA",
+      "target": "IND421302AAG",
+      "delay": 2.395,
+      "trips": 9,
+      "pct_sev": 79.0,
+      "chronic": true
+    },
+    {
+      "source": "IND413002AAA",
+      "target": "IND501359AAE",
+      "delay": 1.537,
+      "trips": 11,
+      "pct_sev": 16.4,
+      "chronic": true
+    },
+    {
+      "source": "IND416012AAA",
+      "target": "IND395023AAA",
+      "delay": 1.823,
+      "trips": 13,
+      "pct_sev": 24.8,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND000000ACB",
+      "delay": 1.904,
+      "trips": 23,
+      "pct_sev": 21.5,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND000000AFT",
+      "delay": 2.35,
+      "trips": 33,
+      "pct_sev": 73.8,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND110037AAM",
+      "delay": 2.133,
+      "trips": 14,
+      "pct_sev": 86.8,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND131028AAB",
+      "delay": 1.891,
+      "trips": 12,
+      "pct_sev": 15.7,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND382430AAB",
+      "delay": 1.853,
+      "trips": 14,
+      "pct_sev": 18.1,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND395023AAA",
+      "delay": 1.957,
+      "trips": 6,
+      "pct_sev": 49.1,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND400072AAB",
+      "delay": 2.333,
+      "trips": 66,
+      "pct_sev": 63.2,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND401104AAA",
+      "delay": 2.64,
+      "trips": 51,
+      "pct_sev": 76.2,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND411033AAA",
+      "delay": 1.861,
+      "trips": 72,
+      "pct_sev": 33.1,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND413002AAA",
+      "delay": 1.756,
+      "trips": 7,
+      "pct_sev": 28.3,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND462022AAA",
+      "delay": 2.0,
+      "trips": 9,
+      "pct_sev": 49.3,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND501359AAE",
+      "delay": 1.766,
+      "trips": 17,
+      "pct_sev": 10.3,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND562132AAA",
+      "delay": 1.705,
+      "trips": 21,
+      "pct_sev": 3.8,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND712311AAA",
+      "delay": 1.988,
+      "trips": 4,
+      "pct_sev": 45.5,
+      "chronic": true
+    },
+    {
+      "source": "IND421302AAG",
+      "target": "IND834002AAB",
+      "delay": 2.235,
+      "trips": 1,
+      "pct_sev": 80.0,
+      "chronic": true
+    },
+    {
+      "source": "IND424006AAA",
+      "target": "IND421302AAG",
+      "delay": 2.202,
+      "trips": 7,
+      "pct_sev": 92.9,
+      "chronic": true
+    },
+    {
+      "source": "IND431136AAC",
+      "target": "IND411033AAA",
+      "delay": 2.071,
+      "trips": 13,
+      "pct_sev": 58.5,
+      "chronic": true
+    },
+    {
+      "source": "IND462022AAA",
+      "target": "IND000000ACB",
+      "delay": 1.664,
+      "trips": 13,
+      "pct_sev": 14.3,
+      "chronic": true
+    },
+    {
+      "source": "IND462022AAA",
+      "target": "IND209304AAA",
+      "delay": 2.02,
+      "trips": 14,
+      "pct_sev": 53.1,
+      "chronic": true
+    },
+    {
+      "source": "IND462022AAA",
+      "target": "IND842003AAB",
+      "delay": 2.522,
+      "trips": 5,
+      "pct_sev": 100.0,
+      "chronic": true
+    },
+    {
+      "source": "IND474003AAA",
+      "target": "IND000000ACB",
+      "delay": 1.507,
+      "trips": 14,
+      "pct_sev": 3.0,
+      "chronic": true
+    },
+    {
+      "source": "IND500039AAC",
+      "target": "IND501359AAE",
+      "delay": 3.667,
+      "trips": 9,
+      "pct_sev": 81.0,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND000000ACB",
+      "delay": 2.139,
+      "trips": 1,
+      "pct_sev": 64.3,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND411033AAA",
+      "delay": 2.172,
+      "trips": 13,
+      "pct_sev": 85.3,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND413002AAA",
+      "delay": 1.93,
+      "trips": 11,
+      "pct_sev": 36.8,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND462022AAA",
+      "delay": 2.252,
+      "trips": 10,
+      "pct_sev": 90.5,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND500039AAC",
+      "delay": 2.033,
+      "trips": 6,
+      "pct_sev": 52.4,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND505001AAB",
+      "delay": 1.215,
+      "trips": 2,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND515004AAA",
+      "delay": 1.551,
+      "trips": 9,
+      "pct_sev": 0.8,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND518002AAA",
+      "delay": 1.742,
+      "trips": 12,
+      "pct_sev": 10.5,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND533106AAA",
+      "delay": 2.371,
+      "trips": 12,
+      "pct_sev": 99.0,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND562132AAA",
+      "delay": 1.665,
+      "trips": 4,
+      "pct_sev": 5.7,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND585104AAA",
+      "delay": 1.48,
+      "trips": 14,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND712311AAA",
+      "delay": 1.81,
+      "trips": 2,
+      "pct_sev": 10.9,
+      "chronic": true
+    },
+    {
+      "source": "IND501359AAE",
+      "target": "IND751002AAB",
+      "delay": 1.774,
+      "trips": 8,
+      "pct_sev": 20.1,
+      "chronic": true
+    },
+    {
+      "source": "IND505001AAB",
+      "target": "IND501359AAE",
+      "delay": 2.048,
+      "trips": 1,
+      "pct_sev": 57.1,
+      "chronic": true
+    },
+    {
+      "source": "IND515004AAA",
+      "target": "IND501359AAE",
+      "delay": 1.667,
+      "trips": 13,
+      "pct_sev": 6.1,
+      "chronic": true
+    },
+    {
+      "source": "IND515004AAA",
+      "target": "IND562132AAA",
+      "delay": 1.739,
+      "trips": 8,
+      "pct_sev": 11.1,
+      "chronic": true
+    },
+    {
+      "source": "IND518002AAA",
+      "target": "IND501359AAE",
+      "delay": 1.788,
+      "trips": 12,
+      "pct_sev": 26.0,
+      "chronic": true
+    },
+    {
+      "source": "IND518002AAA",
+      "target": "IND562132AAA",
+      "delay": 1.446,
+      "trips": 10,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND521225AAB",
+      "target": "IND501359AAE",
+      "delay": 1.656,
+      "trips": 6,
+      "pct_sev": 5.6,
+      "chronic": true
+    },
+    {
+      "source": "IND521225AAB",
+      "target": "IND507002AAA",
+      "delay": 1.512,
+      "trips": 14,
+      "pct_sev": 7.5,
+      "chronic": true
+    },
+    {
+      "source": "IND530012AAA",
+      "target": "IND501359AAE",
+      "delay": 2.009,
+      "trips": 10,
+      "pct_sev": 51.9,
+      "chronic": true
+    },
+    {
+      "source": "IND530012AAA",
+      "target": "IND532001AAB",
+      "delay": 1.699,
+      "trips": 15,
+      "pct_sev": 8.5,
+      "chronic": true
+    },
+    {
+      "source": "IND530012AAA",
+      "target": "IND533106AAA",
+      "delay": 1.523,
+      "trips": 2,
+      "pct_sev": 18.8,
+      "chronic": true
+    },
+    {
+      "source": "IND530012AAA",
+      "target": "IND751002AAB",
+      "delay": 1.597,
+      "trips": 3,
+      "pct_sev": 1.8,
+      "chronic": true
+    },
+    {
+      "source": "IND532001AAB",
+      "target": "IND530012AAA",
+      "delay": 2.292,
+      "trips": 15,
+      "pct_sev": 83.2,
+      "chronic": true
+    },
+    {
+      "source": "IND533106AAA",
+      "target": "IND501359AAE",
+      "delay": 2.061,
+      "trips": 8,
+      "pct_sev": 55.1,
+      "chronic": true
+    },
+    {
+      "source": "IND533106AAA",
+      "target": "IND530012AAA",
+      "delay": 1.666,
+      "trips": 11,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND560099AAB",
+      "target": "IND560300AAA",
+      "delay": 1.516,
+      "trips": 81,
+      "pct_sev": 23.5,
+      "chronic": true
+    },
+    {
+      "source": "IND560099AAB",
+      "target": "IND562132AAA",
+      "delay": 1.581,
+      "trips": 83,
+      "pct_sev": 27.9,
+      "chronic": true
+    },
+    {
+      "source": "IND560099AAB",
+      "target": "IND683511AAA",
+      "delay": 1.689,
+      "trips": 14,
+      "pct_sev": 13.0,
+      "chronic": true
+    },
+    {
+      "source": "IND560300AAA",
+      "target": "IND560099AAB",
+      "delay": 2.429,
+      "trips": 61,
+      "pct_sev": 58.0,
+      "chronic": true
+    },
+    {
+      "source": "IND560300AAA",
+      "target": "IND562132AAA",
+      "delay": 1.661,
+      "trips": 73,
+      "pct_sev": 22.2,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND000000ACB",
+      "delay": 1.739,
+      "trips": 35,
+      "pct_sev": 2.0,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND302014AAA",
+      "delay": 1.91,
+      "trips": 7,
+      "pct_sev": 8.2,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND395023AAA",
+      "delay": 1.988,
+      "trips": 1,
+      "pct_sev": 44.7,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND411033AAA",
+      "delay": 1.531,
+      "trips": 8,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND416012AAA",
+      "delay": 1.623,
+      "trips": 12,
+      "pct_sev": 3.0,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND421302AAG",
+      "delay": 1.682,
+      "trips": 7,
+      "pct_sev": 8.9,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND462022AAA",
+      "delay": 2.283,
+      "trips": 7,
+      "pct_sev": 86.9,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND501359AAE",
+      "delay": 1.831,
+      "trips": 2,
+      "pct_sev": 27.3,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND515004AAA",
+      "delay": 1.353,
+      "trips": 9,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND518002AAA",
+      "delay": 1.439,
+      "trips": 12,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND560099AAB",
+      "delay": 1.537,
+      "trips": 100,
+      "pct_sev": 20.0,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND560300AAA",
+      "delay": 1.659,
+      "trips": 100,
+      "pct_sev": 25.6,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND573201AAB",
+      "delay": 1.544,
+      "trips": 16,
+      "pct_sev": 7.1,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND580028AAA",
+      "delay": 2.237,
+      "trips": 1,
+      "pct_sev": 78.6,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND600056AAB",
+      "delay": 1.754,
+      "trips": 9,
+      "pct_sev": 20.5,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND683511AAA",
+      "delay": 2.0,
+      "trips": 2,
+      "pct_sev": 48.3,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND712311AAA",
+      "delay": 2.25,
+      "trips": 3,
+      "pct_sev": 77.3,
+      "chronic": true
+    },
+    {
+      "source": "IND562132AAA",
+      "target": "IND751002AAB",
+      "delay": 1.984,
+      "trips": 12,
+      "pct_sev": 45.8,
+      "chronic": true
+    },
+    {
+      "source": "IND573201AAB",
+      "target": "IND575004AAB",
+      "delay": 2.653,
+      "trips": 14,
+      "pct_sev": 80.9,
+      "chronic": true
+    },
+    {
+      "source": "IND575004AAB",
+      "target": "IND562132AAA",
+      "delay": 1.712,
+      "trips": 4,
+      "pct_sev": 26.9,
+      "chronic": true
+    },
+    {
+      "source": "IND580028AAA",
+      "target": "IND403726AAA",
+      "delay": 2.338,
+      "trips": 13,
+      "pct_sev": 86.2,
+      "chronic": true
+    },
+    {
+      "source": "IND580028AAA",
+      "target": "IND562132AAA",
+      "delay": 1.731,
+      "trips": 1,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND600044AAD",
+      "target": "IND600056AAB",
+      "delay": 1.711,
+      "trips": 12,
+      "pct_sev": 36.1,
+      "chronic": true
+    },
+    {
+      "source": "IND600056AAB",
+      "target": "IND501359AAE",
+      "delay": 1.598,
+      "trips": 5,
+      "pct_sev": 0.9,
+      "chronic": true
+    },
+    {
+      "source": "IND600056AAB",
+      "target": "IND530012AAA",
+      "delay": 1.718,
+      "trips": 2,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND600056AAB",
+      "target": "IND560099AAB",
+      "delay": 1.622,
+      "trips": 13,
+      "pct_sev": 4.7,
+      "chronic": true
+    },
+    {
+      "source": "IND600056AAB",
+      "target": "IND562132AAA",
+      "delay": 1.743,
+      "trips": 11,
+      "pct_sev": 3.5,
+      "chronic": true
+    },
+    {
+      "source": "IND600056AAB",
+      "target": "IND600044AAD",
+      "delay": 1.531,
+      "trips": 4,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND683511AAA",
+      "target": "IND562132AAA",
+      "delay": 1.56,
+      "trips": 8,
+      "pct_sev": 10.2,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND000000ACB",
+      "delay": 1.947,
+      "trips": 9,
+      "pct_sev": 40.0,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND421302AAG",
+      "delay": 2.168,
+      "trips": 2,
+      "pct_sev": 92.6,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND713205AAB",
+      "delay": 1.97,
+      "trips": 7,
+      "pct_sev": 40.4,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND742101AAC",
+      "delay": 2.609,
+      "trips": 8,
+      "pct_sev": 92.2,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND742102AAB",
+      "delay": 2.945,
+      "trips": 3,
+      "pct_sev": 87.5,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND751002AAB",
+      "delay": 1.749,
+      "trips": 23,
+      "pct_sev": 20.1,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND781018AAB",
+      "delay": 3.025,
+      "trips": 5,
+      "pct_sev": 91.6,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND826004AAA",
+      "delay": 1.538,
+      "trips": 3,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND712311AAA",
+      "target": "IND834002AAB",
+      "delay": 2.357,
+      "trips": 11,
+      "pct_sev": 91.4,
+      "chronic": true
+    },
+    {
+      "source": "IND713205AAB",
+      "target": "IND712311AAA",
+      "delay": 2.588,
+      "trips": 7,
+      "pct_sev": 68.8,
+      "chronic": true
+    },
+    {
+      "source": "IND742101AAC",
+      "target": "IND712311AAA",
+      "delay": 3.014,
+      "trips": 7,
+      "pct_sev": 98.1,
+      "chronic": true
+    },
+    {
+      "source": "IND742102AAB",
+      "target": "IND712311AAA",
+      "delay": 2.742,
+      "trips": 4,
+      "pct_sev": 96.9,
+      "chronic": true
+    },
+    {
+      "source": "IND751002AAB",
+      "target": "IND530012AAA",
+      "delay": 1.544,
+      "trips": 10,
+      "pct_sev": 0.0,
+      "chronic": true
+    },
+    {
+      "source": "IND751002AAB",
+      "target": "IND562132AAA",
+      "delay": 2.35,
+      "trips": 9,
+      "pct_sev": 97.9,
+      "chronic": true
+    },
+    {
+      "source": "IND751002AAB",
+      "target": "IND712311AAA",
+      "delay": 1.957,
+      "trips": 22,
+      "pct_sev": 47.7,
+      "chronic": true
+    },
+    {
+      "source": "IND781018AAB",
+      "target": "IND110037AAM",
+      "delay": 2.43,
+      "trips": 12,
+      "pct_sev": 95.8,
+      "chronic": true
+    },
+    {
+      "source": "IND781018AAB",
+      "target": "IND712311AAA",
+      "delay": 2.44,
+      "trips": 3,
+      "pct_sev": 82.4,
+      "chronic": true
+    },
+    {
+      "source": "IND821115AAB",
+      "target": "IND000000ACB",
+      "delay": 1.894,
+      "trips": 7,
+      "pct_sev": 26.5,
+      "chronic": true
+    },
+    {
+      "source": "IND821115AAB",
+      "target": "IND209304AAA",
+      "delay": 1.796,
+      "trips": 5,
+      "pct_sev": 7.0,
+      "chronic": true
+    },
+    {
+      "source": "IND826004AAA",
+      "target": "IND209304AAA",
+      "delay": 1.831,
+      "trips": 3,
+      "pct_sev": 4.2,
+      "chronic": true
+    },
+    {
+      "source": "IND834002AAB",
+      "target": "IND000000ACB",
+      "delay": 1.932,
+      "trips": 8,
+      "pct_sev": 25.5,
+      "chronic": true
+    },
+    {
+      "source": "IND834002AAB",
+      "target": "IND826004AAA",
+      "delay": 2.333,
+      "trips": 14,
+      "pct_sev": 97.9,
+      "chronic": true
+    },
+    {
+      "source": "IND842001AAA",
+      "target": "IND854326AAB",
+      "delay": 1.699,
+      "trips": 12,
+      "pct_sev": 18.9,
+      "chronic": true
+    },
+    {
+      "source": "IND854326AAB",
+      "target": "IND000000ACB",
+      "delay": 2.05,
+      "trips": 12,
+      "pct_sev": 60.4,
+      "chronic": true
+    }
+  ]
+}
